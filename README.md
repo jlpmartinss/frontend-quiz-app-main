@@ -37,8 +37,6 @@ Users should be able to:
 - Solution URL: https://github.com/jlpmartinss/frontend-quiz-app-main/
 - Live Site URL: 
 
-## My process
-
 ### Built with
 
 - HTML
