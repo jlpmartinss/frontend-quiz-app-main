@@ -41,13 +41,9 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - Flexbox
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
 
-## Author
-
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
