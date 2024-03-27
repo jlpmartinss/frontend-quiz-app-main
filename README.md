@@ -14,6 +14,8 @@ This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+<img width="1510" alt="Screenshot 2024-03-27 at 19 38 33" src="https://github.com/jlpmartinss/frontend-quiz-app-main/assets/50104175/c03ee4e6-ac89-41e8-84e6-26af697d563e">
+<img width="1509" alt="Screenshot 2024-03-27 at 19 39 07" src="https://github.com/jlpmartinss/frontend-quiz-app-main/assets/50104175/89db627c-5fff-42bb-b0df-d5f275f9427d">
 
 ### The challenge
 
@@ -32,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/jlpmartinss/frontend-quiz-app-main/
+- Live Site URL: 
 
 ## My process
 
